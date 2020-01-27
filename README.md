@@ -9,7 +9,7 @@ After submit form the user get a link on document in .docx for download.
 ***For administrator:***
 - all users data save in database;
 - documents which were generate save in the directory on the hosting; 
-- in admin panel for superuser, showing users information (data from form) and on the main page in console - a count of generating document;
+- the superuser can see the information from users (data from form) in admin panel, and on the main page in console - a count of document which was generate;
 - the superuser can to clean up the directory where save the documents.
 
 
