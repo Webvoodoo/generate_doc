@@ -1,6 +1,7 @@
 # generate_doc
 WordPress plugin - online generating documents in .docx 
 ========================================================
+***for watching all files - download archive***
 
 The user see the page where on the left side - form, which need to fill and on the right side - the example of resulting document.
 
